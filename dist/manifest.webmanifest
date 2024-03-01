@@ -1,0 +1,16 @@
+{
+	"background_color": "#6666ff",
+	"display": "fullscreen",
+  "display_override": ["window-control-overlay", "minimal-ui"],
+	"name": "Reminders",
+	"icons": [
+		{
+			"src": "/reminders/icon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+  "theme_color": "#6666ff",
+ 	"short_name": "☝️",
+	"orientation": "portrait"
+}
